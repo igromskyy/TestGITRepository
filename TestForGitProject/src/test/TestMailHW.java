@@ -5,7 +5,7 @@ import java.util.Date;
 public class TestMailHW {
 
 	public static void main(String[] args) {
-		System.out.println("HI GIT");
+		System.out.println("HI GIT1");
 		System.out.println(getTime());
 
 	}
