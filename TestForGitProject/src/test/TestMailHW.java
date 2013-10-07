@@ -13,5 +13,9 @@ public class TestMailHW {
 	public static String getTime() {
 		return "Time>>>" + new Date().getTime() + "L";
 	}
+	
+	public static String getTime1() {
+		return "Time>>>" + new Date().getTime() + "L1";
+	}
 
 }
